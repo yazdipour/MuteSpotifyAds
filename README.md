@@ -1,3 +1,7 @@
+### NOTE
+
+This program does not work always. Better to follow this repo https://github.com/CHEF-KOCH/Spotify-Ad-free 
+
 # Mute Spotify Ads (Windows)
 
 Simply run the program and let it listen to spotify.
